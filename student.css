@@ -1,0 +1,47 @@
+body{
+    background-color: antiquewhite;
+    margin-left: 500px;
+    margin-top: 150px;
+    background-image: linear-gradient(lightblue ,rgb(180, 94, 94) );
+}
+
+
+
+.top{
+    width: 400px;
+    height: 500px;
+    border-style: solid;
+    
+    background-color:white;
+    border-radius: 10px;
+   
+}
+
+
+
+h1{
+    text-align: center;
+}
+
+button{
+    width: 300px;
+    height: 30px;
+    margin-left: 50px;
+    color: white;
+    background-color: rgb(48, 136, 165);
+}
+p{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.second{
+    width: 200px;
+    height: 200px;
+    background-color: aliceblue;
+    border-style: solid;
+     margin-left: 100px;
+    border-radius: 50%;
+    
+}
