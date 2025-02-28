@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+}
+.first{
+    height: 30px;
+    width: 600px;
+    background-color: bisque;
+}
+input{
+    display: inline-block;
+}
+.line{
+    display: flex;
+}
+.one{
+    margin-left: 30px;
+}
