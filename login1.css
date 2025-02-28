@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(234, 238, 240);
+}
+
+.line{
+    text-align: center;
+    margin-top: -650px;
+    margin-left: 600px;
+}
+
+button{
+    width: 300px;
+    height: 40px;
+    background-color:purple;
+    color: white;
+    font-size: 15px;
+}
+input{
+    width: 300px;
+    height: 40px;
+}
+i{
+    width: 30px;
+    height: 50px;
+}
+.fa-brands{
+
+    font-size: 20px;
+    border: 1px solid ;
+    height: 20px;
+    padding: 10px;
+    border-radius: 5px;
+}
+span{
+    color: blue;
+}
+p{
+    text-align: center;
+}
+.fa-facebook{
+    color:blue;
+}
